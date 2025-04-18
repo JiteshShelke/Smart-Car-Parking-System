@@ -10,7 +10,7 @@ It detects cars using **IR sensors**, controls a **servo motor gate**, displays 
 **🧑‍🔬 Jitesh Santosh Shelke**  
 🎓 *M.Sc. Data Analytics* — Pillai College of Arts, Commerce and Science (Autonomous)  
 🛠 Passionate about **IoT**, **AI**, **Machine Learning**, and **Smart Infrastructure**  
-🌐 [GitHub](https://github.com/JiteshShelke) • [LinkedIn](linkedin.com/in/jitesh-shelke-702745286/)
+🌐 [GitHub](https://github.com/JiteshShelke) • [LinkedIn](https://linkedin.com/in/jitesh-shelke-702745286/)
 
 ---
 
