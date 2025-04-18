@@ -1,6 +1,6 @@
-# 🚗💡 PARKEASE: Smart Car Parking System
+# 🚗💡Smart Car Parking System
 
-**PARKEASE** is a smart car parking solution that automates parking slot management using **Arduino UNO** and **NodeMCU ESP8266**.  
+**Smart Car Parking** is a smart car parking solution that automates parking slot management using **Arduino UNO** and **NodeMCU ESP8266**.  
 It detects cars using **IR sensors**, controls a **servo motor gate**, displays availability on an **LCD**, and sends live updates to the **Blynk IoT** app.
 
 ---
