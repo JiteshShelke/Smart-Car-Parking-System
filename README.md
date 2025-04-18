@@ -27,7 +27,8 @@ It detects cars using **IR sensors**, controls a **servo motor gate**, displays 
 
 ## 🎥 Watch the Demo
 
-[![Smart Car Parking System](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Smart Car Parking System](https://img.youtube.com/vi/UcszXU9vbh8/0.jpg)](https://www.youtube.com/watch?v=UcszXU9vbh8)
+
 
 
 ## 🛠️ Hardware Components
